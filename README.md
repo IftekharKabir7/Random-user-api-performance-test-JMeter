@@ -20,7 +20,7 @@ Load Test
 
 Stress Test
 
-![image](https://github.com/IftekharKabir7/Random-user-api-performance-test-JMeter/assets/59432050/584eec49-4e4e-46b3-bf1a-980952da7a8d)
+![image](https://github.com/IftekharKabir7/Random-user-api-performance-test-JMeter/assets/59432050/c3f638d2-7ef9-42f8-8149-92a5ff6c01e1)
 
 JMeter Load Test
 
